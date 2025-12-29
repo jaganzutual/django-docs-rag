@@ -1,0 +1,4 @@
+# Requirements for the project
+pypdf
+requests
+beautifulsoup4
